@@ -1,6 +1,8 @@
 # Expense Manager App
 
-![Java](https://img.shields.io/badge/java.svg)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<br>
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Forks](https://img.shields.io/github/forks/devjewel01/ExpenseManagerApp.svg?logo=github)
 ![Stargazers](https://img.shields.io/github/stars/devjewel01/ExpenseManagerApp.svg?logo=github)
