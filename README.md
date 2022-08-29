@@ -1,8 +1,20 @@
-# ExpenseManagerApp
+# Expense Manager App
+
+![Java](https://img.shields.io/badge/java.svg)
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![Forks](https://img.shields.io/github/forks/devjewel01/ExpenseManagerApp.svg?logo=github)
+![Stargazers](https://img.shields.io/github/stars/devjewel01/ExpenseManagerApp.svg?logo=github)
+![Issues](https://img.shields.io/github/issues/devjewel01/ExpenseManagerApp.svg?logo=github)
 
 An Android App to manage your expenses in an Easy manner with a user friendly UI.
 
+<h2>Features</h2> 
 
+- [X] Loging and Registration
+- [X] Add Income 
+- [X] Add Expense
+- [X] Pie Chart 
+- [ ] Budget management 
 
 # Architecture Diagram
 ![](/Images/Architecturediagram.jpg)
