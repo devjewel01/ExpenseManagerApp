@@ -30,8 +30,8 @@ An Android App to manage your expenses in an Easy manner with a user friendly UI
   </tr>
   <tr>
     <td><img src="/Images/Splash%20Screen.png" width=270 height=480></td>
-    <td><img src="/Images/LoginActivity.png" width=270 height=480></td>
-    <td><img src="/Images/SigUpActivity.png" width=270 height=480></td>
+    <td><img src="/Images/LoginActivity1.png" width=270 height=480></td>
+    <td><img src="/Images/SigUpActivity1.png" width=270 height=480></td>
   </tr>
  </table>
  
