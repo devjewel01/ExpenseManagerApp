@@ -16,6 +16,8 @@ An Android App to manage your expenses in an Easy manner with a user friendly UI
 - [X] Add Income 
 - [X] Add Expense
 - [X] Pie Chart 
+- [X] Update and Delete Income Data
+- [X] Update and Delete Expense Data
 - [ ] Budget management 
 
 # Architecture Diagram
